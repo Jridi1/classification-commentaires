@@ -45,7 +45,7 @@ Ce projet a été réalisé dans le cadre de mon Projet de Fin d'Études pour l'
 
 📄 [Rapport complet du projet (PDF)](./Rapport%20Final.pdf)
 
-📽️ [Présentation avec démo vidéo page 28 (chaque diapo est numéroté à gauche en bas, diapo 32)(Google Drive)]([https://drive.google.com/your-link-ici](https://docs.google.com/presentation/d/19lz_AMs2MRc4zeg2gg8HAWlmzJOBAJgR/edit?usp=sharing&ouid=112678636381172917271&rtpof=true&sd=true))
+📽️ [Présentation avec démo vidéo page 28 (chaque diapo est numéroté à gauche en bas, diapo 32)(Google Drive)](https://docs.google.com/presentation/d/19lz_AMs2MRc4zeg2gg8HAWlmzJOBAJgR/edit?usp=sharing&ouid=112678636381172917271&rtpof=true&sd=true)
 
 ## 👨‍💻 Réalisé par
 
