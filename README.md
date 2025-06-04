@@ -16,7 +16,7 @@ Ce projet a été réalisé dans le cadre de mon Projet de Fin d'Études pour l'
 - **MLflow** pour le suivi des expériences de machine learning
 - **Deep Learning** : RNN, LSTM
 - **Django + Ngrok** pour le déploiement du chatbot Messenger
-- **Web scraping** avec Selenium et Pymongo
+- **Web scraping** avec Selenium
 
 ## 🧠 Modélisation
 
